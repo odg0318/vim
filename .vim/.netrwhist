@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/phoenix_global_api'
+let g:netrw_dirhist_2='/home/phoenix_global_api/lib/phoenix/model/main'
+let g:netrw_dirhist_3='/home/phoenix_global_api/lib/phoenix/model/main/common'
+let g:netrw_dirhist_4='/home/phoenix_global_api/lib/phoenix/model/main/kr'
+let g:netrw_dirhist_5='/home/webmail/imapd/log'
+let g:netrw_dirhist_6='/home/webmail/imapd/lib'
+let g:netrw_dirhist_7='/home/webmail/imapd/log'
