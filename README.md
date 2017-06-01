@@ -2,12 +2,15 @@ Installation
 ------------
 * Copy files
 
-	git clone https://github.com/odg0318/vim
-	make install
+```bash
+git clone https://github.com/odg0318/vim
+make install
+```
 
 * Install plugins on vim
-
-	PlugInstall
+```bash
+PlugInstall
+```
 
 Dependancy
 ----------
