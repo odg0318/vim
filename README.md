@@ -4,6 +4,7 @@ Installation
 
 ```bash
 git clone https://github.com/odg0318/vim
+cd vim
 make install
 ```
 
