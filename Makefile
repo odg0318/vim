@@ -6,3 +6,6 @@ install: plugin
 	@rm -rf ~/.vim*
 	@cp .vimrc ~/.vimrc
 	@cp -rp .vim ~/.vim
+
+git:
+	@git config --global core.editor vim
