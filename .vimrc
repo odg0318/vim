@@ -21,6 +21,7 @@ set hlsearch
 set nu
 set enc=utf-8 fenc=utf-8
 autocmd Filetype ruby setlocal ts=2 sts=2 sw=2
+autocmd Filetype html setlocal ts=2 sts=2 sw=2
 
 let g:NERDTreeShowBookmarks=1
 let g:NERDTreeShowHidden=0
@@ -33,6 +34,7 @@ let g:pymode_folding = 0
 let g:pymode_options_colorcolumn = 0 
 let g:pymode_doc = 0 
 let g:pymode_lint_ignore = "E501"
+let g:pymode_rope = 0
 set completeopt-=preview
 
 vnoremap <silent> # :s#^#\##<cr>:noh<cr>
