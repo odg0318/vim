@@ -37,6 +37,8 @@ let g:pymode_lint_ignore = "E501"
 let g:pymode_rope = 0
 set completeopt-=preview
 
+let g:go_version_warning = 0
+
 vnoremap <silent> # :s#^#\##<cr>:noh<cr>
 vnoremap <silent> -# :s#^\###<cr>:noh<cr>
 
