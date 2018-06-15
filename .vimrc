@@ -5,7 +5,7 @@ Plug 'fatih/vim-go'
 Plug 'majutsushi/tagbar'
 Plug 'scrooloose/nerdtree'
 Plug 'vim-ruby/vim-ruby'
-Plug 'python-mode/python-mode', { 'branch': 'develop' }
+Plug 'python-mode/python-mode', { 'tag': '0.8.0' }
 Plug 'ekalinin/Dockerfile.vim'
 call plug#end()
 
