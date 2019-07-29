@@ -7,6 +7,7 @@ Plug 'scrooloose/nerdtree'
 Plug 'vim-ruby/vim-ruby'
 Plug 'python-mode/python-mode', { 'tag': '0.8.0' }
 Plug 'ekalinin/Dockerfile.vim'
+Plug 'hashivim/vim-terraform'
 call plug#end()
 
 set nocompatible      " We're running Vim, not Vi!
